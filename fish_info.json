@@ -1,0 +1,137 @@
+{
+  "Rohu": {
+    "scientific_name": "Labeo rohita",
+    "family": "Cyprinidae",
+    "habitat": "Freshwater rivers, ponds and lakes of South Asia",
+    "diet": "Herbivorous - feeds on plankton, algae and decaying plants",
+    "avg_size": "45 - 100 cm, up to 45 kg",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Rohu is one of the most farmed freshwater fish in India and is a major part of Indian aquaculture."
+  },
+  "Catla": {
+    "scientific_name": "Catla catla",
+    "family": "Cyprinidae",
+    "habitat": "Rivers and lakes of South Asia, mainly surface water",
+    "diet": "Feeds mainly on zooplankton near the water surface",
+    "avg_size": "up to 180 cm, can weigh over 45 kg",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Catla has a large, broad head and upturned mouth, ideal for surface feeding."
+  },
+  "Tilapia": {
+    "scientific_name": "Oreochromis niloticus",
+    "family": "Cichlidae",
+    "habitat": "Warm freshwater lakes, rivers, and ponds worldwide",
+    "diet": "Omnivorous - algae, plankton, small invertebrates",
+    "avg_size": "20 - 60 cm",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Tilapia is one of the most widely farmed fish on Earth due to its fast growth and hardiness."
+  },
+  "Salmon": {
+    "scientific_name": "Salmo salar",
+    "family": "Salmonidae",
+    "habitat": "Cold rivers and the North Atlantic Ocean; anadromous species",
+    "diet": "Carnivorous - insects, smaller fish, crustaceans",
+    "avg_size": "70 - 150 cm, up to 30 kg",
+    "conservation_status": "Least Concern (wild populations declining in some regions)",
+    "fun_fact": "Salmon are famous for swimming upstream against strong currents to spawn in the river where they were born."
+  },
+  "Tuna": {
+    "scientific_name": "Thunnus spp.",
+    "family": "Scombridae",
+    "habitat": "Open ocean, warm and temperate seas worldwide",
+    "diet": "Carnivorous - squid, small fish, crustaceans",
+    "avg_size": "1 - 3 m depending on species, up to 450 kg (Bluefin)",
+    "conservation_status": "Varies by species, several are Near Threatened",
+    "fun_fact": "Tuna can swim at speeds of over 70 km/h and are partially warm-blooded, unusual for fish."
+  },
+  "Clownfish": {
+    "scientific_name": "Amphiprioninae",
+    "family": "Pomacentridae",
+    "habitat": "Coral reefs in warm Indo-Pacific waters, lives among sea anemones",
+    "diet": "Omnivorous - algae, zooplankton, small invertebrates",
+    "avg_size": "8 - 11 cm",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Clownfish are immune to the sting of the sea anemones they live in, which offers them protection from predators."
+  },
+  "Betta": {
+    "scientific_name": "Betta splendens",
+    "family": "Osphronemidae",
+    "habitat": "Shallow freshwater in rice paddies and slow streams of Southeast Asia",
+    "diet": "Carnivorous - insects and larvae",
+    "avg_size": "6 - 8 cm",
+    "conservation_status": "Vulnerable in the wild",
+    "fun_fact": "Male bettas are extremely territorial and are commonly known as Siamese fighting fish."
+  },
+  "Goldfish": {
+    "scientific_name": "Carassius auratus",
+    "family": "Cyprinidae",
+    "habitat": "Freshwater ponds, lakes, and aquariums worldwide",
+    "diet": "Omnivorous - plants, insects, small crustaceans",
+    "avg_size": "5 - 20 cm in captivity, larger in the wild",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Goldfish were first domesticated in China over a thousand years ago from wild carp."
+  },
+  "Hilsa": {
+    "scientific_name": "Tenualosa ilisha",
+    "family": "Clupeidae",
+    "habitat": "Coastal waters and rivers of South Asia; anadromous species",
+    "diet": "Feeds mainly on phytoplankton and zooplankton",
+    "avg_size": "up to 60 cm",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Hilsa is the national fish of Bangladesh and is famous for its rich flavor."
+  },
+  "Pomfret": {
+    "scientific_name": "Pampus argenteus",
+    "family": "Stromateidae",
+    "habitat": "Coastal marine waters of the Indo-Pacific",
+    "diet": "Feeds on zooplankton and small jellyfish",
+    "avg_size": "25 - 40 cm",
+    "conservation_status": "Near Threatened",
+    "fun_fact": "Silver Pomfret has a distinctive flat, disc-shaped silvery body and no visible pelvic fins."
+  },
+  "Mackerel": {
+    "scientific_name": "Scomber scombrus",
+    "family": "Scombridae",
+    "habitat": "Cold and temperate waters of the Atlantic Ocean",
+    "diet": "Carnivorous - small fish, crustaceans, plankton",
+    "avg_size": "30 - 40 cm",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Mackerel swim in large, tightly packed schools that can contain thousands of fish for protection."
+  },
+  "Catfish": {
+    "scientific_name": "Clarias batrachus",
+    "family": "Clariidae",
+    "habitat": "Freshwater rivers, ponds, swamps and rice fields",
+    "diet": "Omnivorous - scavenges plants, insects, small fish",
+    "avg_size": "30 - 50 cm",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Some catfish species can breathe air and survive out of water for short periods by moving across land."
+  },
+  "Guppy": {
+    "scientific_name": "Poecilia reticulata",
+    "family": "Poeciliidae",
+    "habitat": "Freshwater streams, originally from South America, now popular globally in aquariums",
+    "diet": "Omnivorous - algae, insect larvae, small invertebrates",
+    "avg_size": "2.5 - 6 cm",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Guppies are livebearers, meaning they give birth to free-swimming young instead of laying eggs."
+  },
+  "Angelfish": {
+    "scientific_name": "Pterophyllum scalare",
+    "family": "Cichlidae",
+    "habitat": "Slow-moving freshwater rivers of the Amazon basin",
+    "diet": "Omnivorous - small insects, worms, plant matter",
+    "avg_size": "up to 15 cm",
+    "conservation_status": "Least Concern",
+    "fun_fact": "Angelfish have a distinctive flat, triangular body shape and long trailing fins."
+  },
+  "Shark": {
+    "scientific_name": "Selachimorpha",
+    "family": "Various (over 500 species)",
+    "habitat": "Oceans worldwide, from shallow coastal waters to deep sea",
+    "diet": "Carnivorous - fish, seals, plankton depending on species",
+    "avg_size": "varies widely, 20 cm to over 12 m (Whale Shark)",
+    "conservation_status": "Many species are Vulnerable or Endangered",
+    "fun_fact": "Sharks have skeletons made entirely of cartilage instead of bone."
+  }
+}
